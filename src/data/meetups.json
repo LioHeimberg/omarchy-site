@@ -1617,9 +1617,9 @@
       "timezone": null,
       "address": null,
       "city": null,
-      "country": "GH",
+      "country": null,
       "online": null,
-      "geo": { "lat": 8.0300284, "lon": -1.0800271, "approximate": true },
+      "geo": null,
       "hosts": ["Ebenezer Nana Ofosu"],
       "cover": null
     }
