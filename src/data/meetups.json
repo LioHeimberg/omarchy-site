@@ -1,7 +1,7 @@
 {
   "source": "luma-feed",
   "calendar": "https://luma.com/omarchy",
-  "refreshed": "2026-11-11",
+  "refreshed": "2026-11-12",
   "events": [
     {
       "id": "evt-YDyCEwwpiMzSFDB",
@@ -1617,9 +1617,9 @@
       "timezone": null,
       "address": null,
       "city": null,
-      "country": null,
+      "country": "GH",
       "online": null,
-      "geo": null,
+      "geo": { "lat": 8.0300284, "lon": -1.0800271, "approximate": true },
       "hosts": ["Ebenezer Nana Ofosu"],
       "cover": null
     }
