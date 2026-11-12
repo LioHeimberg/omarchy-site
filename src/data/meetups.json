@@ -267,9 +267,9 @@
       "timezone": null,
       "address": null,
       "city": null,
-      "country": null,
+      "country": "BR",
       "online": null,
-      "geo": null,
+      "geo": { "lat": -10.3333333, "lon": -53.2, "approximate": true },
       "hosts": ["Guilherme Monteiro"],
       "cover": null
     },
